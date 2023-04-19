@@ -1,0 +1,19 @@
+svg {
+    border: 1px solid #ccc;
+    background: white;
+    color: black
+}
+
+.axis .domain {
+    stroke: none;
+}
+
+.x line {
+    stroke: white;
+}
+
+.tooltip {
+    position: fixed;
+    opacity: 0;
+    pointer-events: none;
+}
